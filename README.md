@@ -4,7 +4,7 @@ El repositori pren el nom de la serie d'animació de Zerocalcare.
 
 # Igualtat
 
-Portal sobre les dades d'igualtat a les festes de Moros i Cristians d'Alcoi: https://ponsoda.github.io/alcoi-m-c/
+Portal sobre les dades d'igualtat a les festes de Moros i Cristians d'Alcoi: [https://ponsoda.github.io/alcoi-m-c/](https://ponsoda.github.io/alcoi-m-c/)
 
 # Racisme
 
