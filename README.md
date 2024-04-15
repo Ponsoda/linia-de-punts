@@ -1,4 +1,4 @@
-# Aquest món no em farà mala persona
+# Linia de punts
 Aquest repositori recull informació relativa a injustícies arran del món. Aniré actualitzant-la amb portals e informació relatives a temes com la igualtat, el racisme, etc.
 El repositori pren el nom de la serie d'animació de Zerocalcare.
 
